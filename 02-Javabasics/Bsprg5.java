@@ -1,4 +1,4 @@
-// 5.)Take 2 numbers as input and print the largest number.(Greatest of 2 numbers)
+// 5.)Program to Take 2 numbers as input and print the largest number.(Greatest of 2 numbers)
 
 import java.util.Scanner;
 

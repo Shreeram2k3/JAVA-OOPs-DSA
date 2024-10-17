@@ -1,4 +1,4 @@
-/* 4.)Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions) 
+/* 4.)Program to Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions) 
    Simple calculator
  */
 

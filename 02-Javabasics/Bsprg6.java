@@ -1,4 +1,4 @@
-// 6.)Input currency in rupees and output in USD. (Currency converter)
+// 6.)Program to Input currency in rupees and output in USD. (Currency converter)
 
 import java.util.Scanner;
 
