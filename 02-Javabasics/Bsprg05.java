@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Bsprg5 {
+public class Bsprg05 {
  public static void main(String[] args) {
   Scanner inp = new Scanner(System.in);
 

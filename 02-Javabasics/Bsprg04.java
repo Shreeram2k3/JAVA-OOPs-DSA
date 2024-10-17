@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class Bsprg4 {
+public class Bsprg04 {
   public static void main(String[] args) {
    Scanner inp = new Scanner(System.in);
    

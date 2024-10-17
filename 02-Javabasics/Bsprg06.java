@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Bsprg6 {
+public class Bsprg06 {
   public static void main(String[] args) {
     Scanner inp = new Scanner(System.in);
     System.out.println("Enter the amount in Rupees:");

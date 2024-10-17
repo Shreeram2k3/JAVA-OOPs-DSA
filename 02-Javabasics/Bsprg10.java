@@ -15,7 +15,6 @@ public static void main(String[] args) {
   for(int i=0;i<len/2;i++)
   {
     // checking the 1st letter and the corresponding letter from last upto midddle 
-    
     if(word.charAt(i)!= word.charAt(len-i-1))
     {
       isPalindrome = false;

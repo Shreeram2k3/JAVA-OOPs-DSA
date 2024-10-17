@@ -1,7 +1,7 @@
 // 1.)Program to print whether a number is even or odd, take input from the user
 
 import java.util.*;
-public class Bsprg1 {
+public class Bsprg01 {
     public static void main(String[] args) {
         int n;
         Scanner inp = new Scanner(System.in);

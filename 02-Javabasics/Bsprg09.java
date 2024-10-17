@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Bsprg9 {
+public class Bsprg09 {
   public static void main(String[] args) {
     Scanner inp = new Scanner(System.in);
     System.out.print("Enter  a number:");
