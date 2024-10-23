@@ -13,7 +13,7 @@ public class Bsprg13 {
     System.out.print("Enter a number:");
     int gnum = inp.nextInt();
     int n = gnum;
-    /* length() cannot be used in primities , so converting int to String 
+    /* length() cannot be used in primitives , so converting int to String 
     to find the length of the given number */
     int e = String.valueOf(n).length();
     int res=0;
