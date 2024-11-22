@@ -24,12 +24,15 @@ public class Arrprg04 {
         }
         inp.close();
 
-        for (int i = 0; i < m; i++) {
-           heights[i] = men[i];
-        }
 
+        for (int i = 0; i < m; i++) {
+           
+            heights[i] = men[i];
+        }
+        
+        
         for (int i = m; i < m+w; i++) {
-            heights[i] = women[i];
+                heights[i] = women[i-m];
         }
 
         System.out.println("The Height List is:");
