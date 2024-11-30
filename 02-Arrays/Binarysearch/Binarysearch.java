@@ -1,3 +1,4 @@
+package Binarysearch;
 // Example program for Binarysearch
 public class Binarysearch {
 

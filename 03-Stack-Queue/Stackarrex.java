@@ -74,13 +74,16 @@ public class Stackarrex {
         inp.close();
         st.push(10);
         st.push(20);
+        st.pop();
         st.push(30);
         st.push(40);
-        st.push(50);
-        st.size();
-        st.peek();
         st.pop();
-        st.peek();
+        st.push(50);
+        st.display();
+        // st.size();
+        // st.peek();
+        // st.pop();
+        // st.peek();
         
     }
 }
