@@ -38,7 +38,7 @@ public class Infinitearray
     return -1;
   }
 
-  public static int search(int[] arr, int target)
+  public static int searchspace(int[] arr, int target)
   {
       int start = 0;
       int end = 1;
@@ -54,6 +54,6 @@ public class Infinitearray
   public static void main(String[] args) {
     int [] arr ={3, 5, 7, 9, 10, 90, 100, 130, 140, 160, 170};
     int target = 10;
-    System.out.println(search(arr,target));
+    System.out.println(searchspace(arr,target));
   }
 }
