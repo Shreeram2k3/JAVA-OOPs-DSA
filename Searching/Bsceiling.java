@@ -1,4 +1,4 @@
-package Binarysearch;
+package Searching;
 /* Find the ceiling of a number
 
 ceiling: Smallest number greater than or equal to target number 

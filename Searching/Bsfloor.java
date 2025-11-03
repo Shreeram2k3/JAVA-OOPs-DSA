@@ -1,4 +1,4 @@
-package Binarysearch;
+package Searching;
 /* Find the Floor of a number
 
 Floor: Biggestest number smaller than or equal to target number 

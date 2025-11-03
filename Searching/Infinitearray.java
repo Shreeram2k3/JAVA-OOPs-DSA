@@ -1,4 +1,4 @@
-package Binarysearch;
+package Searching;
 // Given a sorted array arr[] of infinite numbers. The task is to search for an element k in the array.
 // https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/
 

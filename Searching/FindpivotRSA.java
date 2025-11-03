@@ -1,7 +1,7 @@
 // program to find the pivot in rotated sorted Array
 
 
-package Binarysearch;
+package Searching;
 
 public class FindpivotRSA {
 
