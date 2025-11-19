@@ -30,7 +30,7 @@ public class BFS{
         Queue<Integer> queue = new LinkedList<>();
 
         visited[start] = true;
-        queue.offer(start);
+        queue.add(start);
 
         while (!queue.isEmpty()) {
             int node = queue.poll();
@@ -39,7 +39,7 @@ public class BFS{
             for (int neighbor : adj.get(node)) {
                 if (!visited[neighbor]) {
                     visited[neighbor] = true;
-                    queue.offer(neighbor);
+                    queue.add(neighbor);
                 }
             }
         }
